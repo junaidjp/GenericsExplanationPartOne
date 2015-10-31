@@ -12,7 +12,7 @@ public class ToyotaCarImplementing {
 		Toyota toyotacar = new Toyota();
 		toyotacar.setCompanyName("Toyota USA");
 		toyotacar.setHeadquarters("Michigan");
-		String toyotamodels[] = { "camry","prius","lexus"};
+		String toyotamodels[] = { "camry","prius","lexus","Tacoma"};
 		toyotacar.setModels(toyotamodels);
 		toyotaCarUSA.add(toyotacar);
 		
