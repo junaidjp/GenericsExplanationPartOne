@@ -8,6 +8,7 @@ public class AbdullahTest {
 	String lastname ="mohd";
 	System.out.println("My name is " + name);
 	System.out.println("My last name is" + lastname);
+	System.out.println("Added more stuff");
 	
 	
 	
